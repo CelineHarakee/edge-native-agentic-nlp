@@ -89,6 +89,7 @@ Classical NLP models were trained on synthetic incident text:
 - Logistic Regression (TF-IDF): 0.80 accuracy
 - SVM (TF-IDF): 0.80 accuracy
 - Naive Bayes: ~0.60 accuracy
+
 These results demonstrate that:
 - incident severity is learnable from textual descriptions
 - NLP classification can effectively support semantic agents
